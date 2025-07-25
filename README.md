@@ -22,3 +22,21 @@ A real-time chat application built using **Spring Boot**, **WebSockets (STOMP + 
    ```bash
    git clone https://github.com/yourusername/chat-app-spring-boot.git
    cd chat-app-spring-boot
+
+
+![WhatsApp Image 2025-07-25 at 15 28 18_034dc5b0](https://github.com/user-attachments/assets/145dd4c4-bc73-49d7-9a2b-9d0505aebfbe)
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d5615a5-155a-4462-8dde-63e884cb32d4" />
+
+
+
+
+
+
